@@ -12,13 +12,14 @@
 
 ## 💠 Tech Stack
 
-| Technology | Description           |
-| ---------- | --------------------- |
-|            | Programming language  |
-|            | NoSQL database        |
-|            | Python MongoDB driver |
+| Technology                                                                 | Description           |
+|---------------------------------------------------------------------------|-----------------------|
+| ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)       | Programming Language  |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?logo=mongodb) | NoSQL Database        |
+| ![PyMongo](https://img.shields.io/badge/PyMongo-Client-orange?logo=python) | Python MongoDB Driver |
 
 ---
+
 
 ## 📆 Installation
 
